@@ -11,6 +11,7 @@ MARK-1:
   
   Areas to improve: 
     Write functions and make it modular in the try to solve known issue of guess having a repeating letter.
+    Eliminate the use of for loops completely. 
   
 MARK-3: 
   Vision: 
