@@ -3,6 +3,7 @@ WORDLE: https://www.nytimes.com/games/wordle/index.html
 
 
 Repository logs evolution of solver. 
+
 MARK-1: 
   Elimination based only on the presence or the absence of a letter in the secret word. 
   User has to input in lower cases, the letters present and the letters absent after each guess. 
